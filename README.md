@@ -61,8 +61,6 @@ Ensure your local project directory structure matches the required game assets p
 
 ```text
 game3/
-├── assets/
-│   └── player1.png
 ├── plane/
 │   ├── BG1.png
 │   ├── BG2.png
